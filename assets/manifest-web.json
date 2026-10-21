@@ -1,0 +1,247 @@
+{
+ "assets/bg/prelude.webp": [
+  1152,
+  2138,
+  13
+ ],
+ "assets/bg/connect.webp": [
+  1152,
+  2048,
+  45
+ ],
+ "assets/bg/blessings.webp": [
+  1152,
+  2053,
+  26
+ ],
+ "assets/bg/invitation.webp": [
+  1152,
+  2048,
+  41
+ ],
+ "assets/bg/savedate.webp": [
+  1152,
+  2048,
+  42
+ ],
+ "assets/bg/events.webp": [
+  1152,
+  2047,
+  24
+ ],
+ "assets/bg/venue.webp": [
+  1152,
+  2048,
+  35
+ ],
+ "assets/bg/travel.webp": [
+  1152,
+  2048,
+  38
+ ],
+ "assets/bg/contact.webp": [
+  1152,
+  2048,
+  42
+ ],
+ "assets/bg/gallery.webp": [
+  1152,
+  2048,
+  39
+ ],
+ "assets/bg/closing.webp": [
+  1152,
+  2048,
+  52
+ ],
+ "assets/img/ganesh-gold.webp": [
+  525,
+  597,
+  108
+ ],
+ "assets/img/hand-in-hand.webp": [
+  1100,
+  733,
+  126
+ ],
+ "assets/img/couple.webp": [
+  760,
+  1140,
+  215
+ ],
+ "assets/img/event-mehendi.webp": [
+  720,
+  1279,
+  204
+ ],
+ "assets/img/event-haldi.webp": [
+  720,
+  1279,
+  186
+ ],
+ "assets/img/event-sangeet.webp": [
+  720,
+  1279,
+  254
+ ],
+ "assets/img/event-wedding.webp": [
+  720,
+  1279,
+  159
+ ],
+ "assets/img/baraat.webp": [
+  360,
+  322,
+  50
+ ],
+ "assets/img/varmala.webp": [
+  360,
+  329,
+  54
+ ],
+ "assets/img/phere.webp": [
+  360,
+  432,
+  58
+ ],
+ "assets/img/vidai.webp": [
+  360,
+  312,
+  36
+ ],
+ "assets/photos/image-01.webp": [
+  667,
+  1000,
+  73
+ ],
+ "assets/photos/image-02.webp": [
+  667,
+  1000,
+  52
+ ],
+ "assets/photos/image-03.webp": [
+  750,
+  1000,
+  57
+ ],
+ "assets/photos/image-04.webp": [
+  750,
+  1000,
+  65
+ ],
+ "assets/photos/image-05.webp": [
+  1000,
+  750,
+  97
+ ],
+ "assets/photos/image-06.webp": [
+  725,
+  1000,
+  67
+ ],
+ "assets/photos/image-07.webp": [
+  1000,
+  667,
+  61
+ ],
+ "assets/photos/image-08.webp": [
+  1000,
+  750,
+  57
+ ],
+ "assets/photos/image-09.webp": [
+  1000,
+  668,
+  37
+ ],
+ "assets/photos/image-10.webp": [
+  1000,
+  750,
+  77
+ ],
+ "assets/photos/image-11.webp": [
+  668,
+  1000,
+  44
+ ],
+ "assets/photos/image-12.webp": [
+  1000,
+  668,
+  49
+ ],
+ "assets/photos/image-13.webp": [
+  750,
+  1000,
+  20
+ ],
+ "assets/photos/image-14.webp": [
+  750,
+  1000,
+  49
+ ],
+ "assets/photos/image-15.webp": [
+  1000,
+  667,
+  25
+ ],
+ "assets/photos/image-16.webp": [
+  1000,
+  750,
+  64
+ ],
+ "assets/photos/image-17.webp": [
+  1000,
+  750,
+  39
+ ],
+ "assets/photos/image-18.webp": [
+  1000,
+  750,
+  90
+ ],
+ "assets/photos/image-19.webp": [
+  668,
+  1000,
+  42
+ ],
+ "assets/photos/image-20.webp": [
+  750,
+  1000,
+  75
+ ],
+ "assets/photos/image-21.webp": [
+  1000,
+  750,
+  77
+ ],
+ "assets/photos/image-22.webp": [
+  1000,
+  750,
+  89
+ ],
+ "assets/photos/image-23.webp": [
+  750,
+  1000,
+  91
+ ],
+ "assets/photos/image-24.webp": [
+  750,
+  1000,
+  29
+ ],
+ "assets/photos/image-25.webp": [
+  750,
+  1000,
+  23
+ ],
+ "assets/photos/image-26.webp": [
+  750,
+  1000,
+  78
+ ],
+ "assets/photos/image-27.webp": [
+  750,
+  1000,
+  80
+ ]
+}
